@@ -1,0 +1,691 @@
+Documentary                                      5795
+Drama                                            3937
+Comedy                                            922
+Comedy, Drama                                     687
+Drama, Romance                                    460
+Documentary, Biography                            455
+Documentary, Music                                426
+Thriller                                          420
+Comedy, Drama, Romance                            272
+Documentary, Sport                                263
+Horror                                            256
+Drama, Thriller                                   254
+Action                                            237
+Documentary, Biography, History                   236
+Documentary, History                              224
+Romance                                           218
+Documentary, Biography, Music                     215
+Documentary, Drama                                185
+Drama, Family                                     178
+Crime, Drama                                      169
+Comedy, Romance                                   149
+Action, Crime, Drama                              137
+Crime, Drama, Thriller                            127
+Family                                            125
+Documentary, Biography, Drama                     122
+Animation, Action, Adventure                      101
+Crime                                             101
+Biography, Drama                                   96
+Biography, Drama, History                          95
+Music                                              94
+Drama, History                                     93
+Documentary, Biography, Sport                      91
+Action, Drama                                      88
+Comedy, Drama, Family                              80
+Sci-Fi                                             78
+Biography                                          74
+Musical                                            74
+Comedy, Crime, Drama                               67
+Crime, Drama, Mystery                              67
+Animation                                          64
+Drama, Mystery, Thriller                           64
+Action, Thriller                                   60
+Drama, Mystery                                     60
+Comedy, Horror                                     59
+Animation, Adventure, Comedy                       59
+Documentary, Crime                                 58
+Crime, Thriller                                    58
+Horror, Thriller                                   58
+Documentary, Biography, Comedy                     55
+Action, Crime, Thriller                            54
+Action, Adventure, Comedy                          53
+Mystery                                            53
+Documentary, Comedy                                53
+Documentary, Adventure                             53
+Action, Drama, Thriller                            53
+Adventure, Comedy, Drama                           52
+Fantasy                                            51
+Drama, War                                         51
+Adventure                                          51
+Documentary, History, War                          47
+Action, Comedy, Crime                              45
+Biography, Comedy, Drama                           44
+Action, Adventure, Drama                           44
+Action, Comedy, Drama                              42
+Adventure, Drama                                   42
+History                                            42
+Drama, Music                                       41
+Documentary, Drama, History                        41
+Mystery, Thriller                                  40
+Sport                                              40
+Drama, Sport                                       40
+Documentary, War                                   40
+Action, Comedy                                     38
+Action, Drama, Romance                             38
+Action, Drama, History                             38
+Animation, Comedy, Drama                           37
+Documentary, News                                  37
+Biography, Drama, Sport                            36
+Documentary, History, Music                        35
+Crime, Mystery, Thriller                           35
+Documentary, Adventure, Biography                  35
+Horror, Mystery, Thriller                          34
+Drama, Fantasy                                     34
+Drama, History, War                                34
+Comedy, Drama, Music                               33
+Comedy, Crime                                      32
+Biography, Crime, Drama                            31
+Comedy, Drama, Fantasy                             31
+Documentary, Biography, Family                     31
+Drama, Musical                                     31
+Documentary, Family                                31
+Documentary, History, Sport                        29
+Documentary, Animation, Biography                  29
+Action, Biography, Drama                           28
+Drama, Family, Romance                             27
+Documentary, Comedy, Drama                         27
+Drama, Horror, Mystery                             26
+Drama, Sci-Fi                                      26
+Action, Adventure, Fantasy                         26
+Biography, Drama, Romance                          25
+Action, Adventure, Sci-Fi                          25
+Comedy, Drama, Thriller                            25
+Documentary, Biography, Crime                      25
+Documentary, Action, Adventure                     25
+Drama, Romance, Thriller                           25
+Crime, Drama, Romance                              25
+Documentary, Drama, Family                         25
+Drama, Horror                                      24
+Documentary, Crime, Drama                          24
+Documentary, Horror                                24
+Drama, Horror, Thriller                            24
+Drama, Fantasy, Romance                            23
+Comedy, Thriller                                   23
+Documentary, Adventure, Sport                      23
+Documentary, Animation                             23
+War                                                22
+Comedy, Drama, Mystery                             22
+Biography, Drama, Music                            22
+Adventure, Drama, Family                           21
+Documentary, Adventure, Drama                      21
+Comedy, Drama, Musical                             21
+Documentary, History, News                         21
+Documentary, Drama, News                           21
+Comedy, Sci-Fi                                     20
+Documentary, Drama, Sport                          20
+Western                                            20
+Drama, Musical, Romance                            20
+Drama, Fantasy, Mystery                            20
+Biography, Drama, Family                           20
+Comedy, Family                                     19
+Animation, Action, Drama                           19
+Animation, Adventure, Family                       19
+Drama, History, Romance                            17
+Action, Crime                                      17
+Adventure, Comedy                                  16
+Drama, History, Thriller                           16
+Animation, Adventure, Drama                        16
+Comedy, Drama, Sport                               15
+Sci-Fi, Thriller                                   15
+Drama, Fantasy, Horror                             15
+Comedy, Musical                                    15
+Comedy, Crime, Thriller                            15
+Documentary, Biography, News                       14
+Animation, Action, Comedy                          14
+Animation, Drama, Fantasy                          14
+Action, Sci-Fi                                     14
+Comedy, Drama, History                             14
+Documentary, Adventure, History                    14
+Drama, Mystery, Romance                            14
+Adventure, Comedy, Family                          14
+Documentary, Crime, History                        13
+Documentary, Family, History                       13
+Animation, Drama                                   13
+Drama, Music, Romance                              13
+Action, Adventure                                  12
+Crime, Drama, Family                               12
+Adventure, Biography, Drama                        12
+Action, Adventure, Crime                           12
+Drama, Romance, War                                11
+Comedy, Horror, Thriller                           11
+Action, Drama, Mystery                             11
+Comedy, Fantasy, Romance                           11
+Animation, Comedy, Family                          11
+Action, Fantasy, Sci-Fi                            11
+Drama, Romance, Sci-Fi                             11
+Adventure, Comedy, Fantasy                         11
+Adventure, Family                                  11
+Documentary, Comedy, Music                         11
+Drama, Mystery, Sci-Fi                             11
+Documentary, Musical                               11
+Documentary, Thriller                              11
+Animation, Drama, Music                            11
+Documentary, Comedy, History                       11
+Documentary, Adventure, Family                     11
+Animation, Action, Crime                           10
+Comedy, Drama, Sci-Fi                              10
+Animation, Family                                  10
+Horror, Mystery                                    10
+Comedy, Family, Romance                            10
+Action, Drama, Sport                               10
+Drama, Horror, Sci-Fi                              10
+Horror, Sci-Fi                                     10
+Drama, Western                                     10
+Comedy, Crime, Mystery                             10
+Documentary, Biography, War                        10
+Comedy, Music                                      10
+Romance, Thriller                                   9
+Drama, Family, Fantasy                              9
+Adventure, Drama, Romance                           9
+Animation, Drama, Family                            9
+Crime, Drama, Horror                                9
+Animation, Action, Fantasy                          9
+Comedy, Fantasy                                     9
+Documentary, Action, Biography                      9
+Comedy, Drama, Horror                               9
+Action, Drama, War                                  9
+Documentary, Drama, Music                           9
+Action, Comedy, Thriller                            9
+Action, Drama, Sci-Fi                               9
+Documentary, Sci-Fi                                 9
+Drama, Family, Thriller                             9
+Action, Adventure, Thriller                         9
+Drama, Family, Musical                              8
+Drama, Family, History                              8
+Animation, Adventure, Fantasy                       8
+Comedy, Romance, Thriller                           8
+Comedy, Horror, Mystery                             8
+Adventure, Drama, Thriller                          8
+Documentary, Adventure, Comedy                      8
+Adventure, Drama, Fantasy                           8
+Crime, Drama, History                               8
+Documentary, Mystery                                8
+Animation, Action, Sci-Fi                           8
+Adventure, Comedy, Crime                            8
+Action, Comedy, Sci-Fi                              7
+Drama, Fantasy, Sci-Fi                              7
+Comedy, Fantasy, Horror                             7
+Drama, Music, Musical                               7
+Adventure, Drama, History                           7
+Action, Crime, Mystery                              7
+Drama, Family, Sport                                7
+Documentary, Animation, History                     7
+Animation, Comedy                                   7
+Crime, Horror, Thriller                             7
+Biography, Comedy, Crime                            7
+Action, Romance                                     7
+Fantasy, Horror, Mystery                            6
+Mystery, Romance, Thriller                          6
+Animation, Sci-Fi                                   6
+Action, Comedy, Horror                              6
+Comedy, Mystery                                     6
+Drama, Family, Music                                6
+Adventure, Drama, Sci-Fi                            6
+Action, Comedy, Fantasy                             6
+Animation, Adventure                                6
+Documentary, Drama, War                             6
+Comedy, Drama, War                                  6
+Comedy, Sci-Fi, Thriller                            6
+Action, Mystery, Thriller                           6
+Documentary, Action, Comedy                         6
+Documentary, Action, Sport                          6
+Biography, Drama, Thriller                          6
+Animation, Drama, Sport                             6
+Action, Comedy, Romance                             6
+Comedy, Sport                                       6
+Documentary, History, Mystery                       6
+Documentary, Drama, Mystery                         6
+Documentary, Crime, Mystery                         6
+Adventure, Family, Fantasy                          6
+Drama, Sci-Fi, Thriller                             6
+Musical, Romance                                    6
+Documentary, Action                                 6
+Animation, Drama, Romance                           5
+Action, Horror                                      5
+Action, Drama, Western                              5
+Adventure, Crime, Drama                             5
+Comedy, Mystery, Thriller                           5
+Horror, Sci-Fi, Thriller                            5
+Action, Romance, Thriller                           5
+Adventure, Comedy, Musical                          5
+Comedy, Music, Romance                              5
+Animation, Drama, History                           5
+Documentary, Music, News                            5
+Drama, Fantasy, Musical                             5
+Family, Fantasy                                     5
+Drama, Fantasy, Thriller                            5
+Adventure, Thriller                                 5
+Action, Biography, Crime                            5
+Action, Drama, Family                               5
+Documentary, Drama, Romance                         5
+Adventure, Comedy, Sci-Fi                           5
+Fantasy, Horror                                     5
+Adventure, Comedy, Romance                          5
+Documentary, Adventure, Music                       5
+Documentary, Comedy, Family                         5
+Crime, Drama, Music                                 5
+Documentary, Comedy, Musical                        5
+Animation, Comedy, Music                            5
+Crime, Romance, Thriller                            5
+Drama, History, Musical                             5
+Animation, Sport                                    5
+Action, Fantasy                                     5
+Documentary, Action, Drama                          5
+Action, Horror, Thriller                            5
+Drama, Comedy                                       5
+Documentary, Family, Sport                          4
+Action, Biography, History                          4
+Comedy, Horror, Musical                             4
+Adventure, Drama, Mystery                           4
+Drama, History, Mystery                             4
+Adventure, Comedy, Horror                           4
+Documentary, Western                                4
+Action, Sci-Fi, Thriller                            4
+Fantasy, Romance                                    4
+Comedy, Family, Fantasy                             4
+Documentary, Music, Musical                         4
+Documentary, Animation, Drama                       4
+Action, Adventure, Horror                           4
+Documentary, Romance                                4
+Crime, Drama, Sport                                 4
+Comedy, Musical, Romance                            4
+Fantasy, Mystery, Thriller                          4
+Adventure, Biography, Comedy                        4
+Action, Drama, Musical                              4
+Animation, Adventure, Sci-Fi                        4
+Adventure, Mystery, Thriller                        4
+Adventure, Fantasy                                  4
+Action, Adventure, History                          4
+Action, Drama, Fantasy                              4
+Action, Fantasy, Horror                             4
+Comedy, Fantasy, Music                              4
+Documentary, Crime, Thriller                        4
+Comedy, Mystery, Sci-Fi                             4
+Adventure, History                                  4
+Documentary, Action, History                        4
+Biography, Drama, Fantasy                           4
+Biography, History                                  4
+Drama, Family, Mystery                              4
+Comedy, Horror, Sci-Fi                              4
+Crime, Horror, Mystery                              4
+Action, Comedy, Mystery                             4
+Animation, Comedy, Romance                          3
+Animation, Comedy, Sci-Fi                           3
+Animation, Comedy, Fantasy                          3
+Comedy, Mystery, Romance                            3
+Comedy, Romance, Sci-Fi                             3
+Crime, Horror                                       3
+Action, Horror, Mystery                             3
+Animation, Biography, Drama                         3
+Animation, Drama, Horror                            3
+Documentary, Music, Sport                           3
+Documentary, Comedy, Sport                          3
+Documentary, History, Horror                        3
+Comedy, Musical, Sci-Fi                             3
+Comedy, Crime, Romance                              3
+Crime, Thriller, Western                            3
+Animation, Family, Fantasy                          3
+Adventure, Fantasy, Sci-Fi                          3
+Action, History, War                                3
+Adventure, Horror, Mystery                          3
+Documentary, Comedy, Romance                        3
+Drama, History, Music                               3
+Adventure, Comedy, Western                          3
+Action, Horror, Sci-Fi                              3
+Action, Mystery, Sci-Fi                             3
+Action, Comedy, Family                              3
+Documentary, Comedy, News                           3
+Drama,Romance                                       3
+Fantasy, Thriller                                   3
+Documentary, Family, Music                          3
+Drama, Fantasy, Music                               3
+Biography, Drama, Musical                           3
+Biography, Drama, War                               3
+Animation, History                                  3
+Documentary, Adventure, News                        3
+Documentary, Adventure, Mystery                     3
+Documentary, Crime, Sport                           3
+Horror, Romance, Thriller                           3
+Drama, Romance, Sport                               3
+Adventure, Drama, Music                             3
+Drama, Thriller, War                                3
+Drama, History, Sport                               3
+Animation, Drama, Sci-Fi                            3
+Biography, Comedy                                   3
+Documentary, Biography, Musical                     3
+Adventure, Drama, Sport                             3
+Comedy, Drama, Western                              3
+Drama, Family, Sci-Fi                               3
+Adventure, Sci-Fi                                   3
+Animation, Fantasy                                  3
+Animation, Adventure, Horror                        3
+Action, Adventure, Biography                        3
+Adventure, Drama, Horror                            3
+Crime, Drama, Fantasy                               3
+Animation, Romance                                  3
+Drama, History, Western                             3
+Adventure, Comedy, Mystery                          3
+Documentary, Biography, Horror                      2
+Documentary, Biography, Thriller                    2
+Comedy, Sci-Fi, Western                             2
+Documentary, Music, War                             2
+Family, Musical                                     2
+Comedy, Fantasy, Mystery                            2
+Action, Adventure, Romance                          2
+Action, Biography, Comedy                           2
+Adventure, Horror                                   2
+Drama, Musical, War                                 2
+Biography, Music                                    2
+Drama, Crime                                        2
+History, Sci-Fi                                     2
+Action, Comedy, Music                               2
+Animation, Adventure, Biography                     2
+Biography, Romance                                  2
+Crime, Drama, Western                               2
+Documentary, Drama, Fantasy                         2
+Comedy, Crime, Horror                               2
+Fantasy, Mystery                                    2
+Documentary, Fantasy                                2
+Adventure, Drama, War                               2
+Comedy,Drama                                        2
+Comedy, Horror, Romance                             2
+Biography, Comedy, Music                            2
+Family, Romance                                     2
+History, Thriller                                   2
+Action, Crime, Romance                              2
+Action, Drama, Horror                               2
+Adventure, History, Sci-Fi                          2
+Romance, Sci-Fi                                     2
+Animation, Drama, Mystery                           2
+Drama, Fantasy, History                             2
+Action, Adventure, War                              2
+Drama, Action                                       2
+Drama, Mystery, Western                             2
+Fantasy, Horror, Thriller                           2
+Fantasy, Mystery, Sci-Fi                            2
+Action, Western                                     2
+Adventure, Biography, Crime                         2
+Mystery, Romance                                    2
+Horror, Mystery, Sci-Fi                             2
+Thriller, Western                                   2
+Documentary, Action, Crime                          2
+Animation, Comedy, Musical                          2
+Drama, Music, Mystery                               2
+Documentary, Crime, Music                           2
+Animation, Action, Mystery                          2
+Animation, Action, Sport                            2
+Action, War                                         2
+History, War                                        2
+Drama, Fantasy, Horror, Thriller                    2
+Documentary, Animation, War                         2
+Documentary, History, Thriller                      2
+Comedy, Crime, Fantasy                              2
+Documentary, Family, News                           2
+Animation, Horror                                   2
+Biography, History, War                             2
+Biography, Sport                                    2
+Music, Musical                                      2
+Comedy, Fantasy, Sci-Fi                             2
+Documentary, Animation, Music                       2
+Adventure, Western                                  2
+Documentary, Drama, Thriller                        2
+Music, Romance                                      2
+Animation, Family, Musical                          2
+Documentary, Animation, Family                      2
+Documentary, Fantasy, Mystery                       2
+Comedy, Western                                     2
+Documentary, History, Musical                       2
+Biography, Drama, Mystery                           2
+Documentary, Biography, Romance                     2
+Animation, Fantasy, Horror                          2
+Documentary, Animation, Comedy                      2
+Action, Family, Thriller                            2
+Animation, Action                                   2
+Action, Adventure, Family                           2
+Comedy, Music, Musical                              2
+Documentary,Sport                                   1
+Animation, Comedy, History                          1
+Animation, Biography, Fantasy                       1
+Action, Romance, War                                1
+Documentary, Comedy, Fantasy                        1
+Action, Sport, Thriller                             1
+Animation, Family, History                          1
+Animation, Comedy, Horror                           1
+Documentary, Drama, Western                         1
+Animation, Mystery                                  1
+Documentary, Adventure, Family, Music               1
+Family, Sport                                       1
+Documentary,Music                                   1
+Family, Drama, Comedy                               1
+Comedy, Music, Mystery                              1
+Mystery, Sport                                      1
+Animation, Mystery, Thriller                        1
+Crime, History, Thriller                            1
+Animation, Music                                    1
+Fantasy, Horror, Romance                            1
+Animation, Horror, Mystery                          1
+Comedy, Musical, Mystery                            1
+Documentary, Crime, News                            1
+Animation, Biography                                1
+Action, Romance, Sci-Fi                             1
+Adventure, Fantasy, Mystery                         1
+Action, Adventure, Music                            1
+Animation, Fantasy, Musical                         1
+Action, Family, Western                             1
+Comedy, Musical, Thriller                           1
+Drama, Fantasy, War                                 1
+Documentary, Biography, Mystery                     1
+Documentary, Animation, Adventure                   1
+Drama, Horror, Western                              1
+Comedy, History, Mystery                            1
+Documentary, Adventure, Horror                      1
+Adventure, Sport                                    1
+Action, Adventure, Drama, Sci-Fi, War               1
+Adventure, Drama, Fantasy, Musical, Thriller        1
+Comedy, Horror, Music                               1
+Action, Crime, Fantasy                              1
+Documentary, Family, War                            1
+Drama, Family, War                                  1
+Documentary, Biography, Western                     1
+Action, Biography, Drama, History                   1
+Sport, Documentary                                  1
+Documentary, Crime, War                             1
+Biography,Documentary                               1
+Adventure, Biography                                1
+History, Sport                                      1
+Adventure, Comedy, Music                            1
+Action, Crime, Sci-Fi, Thriller                     1
+Adventure, Music                                    1
+Comedy, Fantasy, Thriller                           1
+Action,Crime                                        1
+Adventure, Drama, Fantasy, Thriller                 1
+Crime, Mystery, Sci-Fi                              1
+Mystery, Sci-Fi                                     1
+Documentary, Biography, Comedy, History             1
+Adventure, Family, Sci-Fi                           1
+Family, Mystery                                     1
+Action, Adventure, Sport                            1
+Animation, Fantasy, Sci-Fi                          1
+Crime, Horror, Music                                1
+Drama, Music, Western                               1
+Animation, Action, Thriller                         1
+Drama, Sci-Fi, Sport                                1
+Action,Crime,Drama                                  1
+Drama, Musical, Mystery                             1
+Animation, Action, Family                           1
+Biography, Drama, Horror                            1
+Drama, Thriller, Western                            1
+Crime, Horror, Romance                              1
+Fantasy, Horror, Sci-Fi                             1
+Comedy, Fantasy, Adventure                          1
+Crime, History                                      1
+Family, Fantasy, Horror                             1
+Animation, Crime, Drama                             1
+Adventure, Horror, Thriller                         1
+Action, Fantasy, Musical                            1
+Comedy, Action                                      1
+Adventure, Comedy, Thriller                         1
+Action, Fantasy, History                            1
+Comedy, Crime, History                              1
+Documentary, Adventure, Biography, Fantasy          1
+Comedy, Family, Western                             1
+Animation, Fantasy, Romance                         1
+Animation, Fantasy, Mystery                         1
+Documentary, History, Romance                       1
+Animation, Sci-Fi, War                              1
+Biography, Fantasy                                  1
+Music, Documentary                                  1
+Documentary, Comedy, Crime                          1
+Action, Adventure, Drama, War                       1
+Documentary, Sci-Fi, Thriller                       1
+Adventure, Comedy, Family, Horror                   1
+Fantasy, Sci-Fi                                     1
+Adventure, Crime                                    1
+Romance, War                                        1
+Documentary, Biography, Sci-Fi                      1
+Adventure, Fantasy, Horror                          1
+Adventure,Comedy                                    1
+Drama, Musical, Thriller                            1
+Drama,Thriller                                      1
+Crime, Music, Thriller                              1
+Adventure,Comedy,Family                             1
+Documentary, Animation, Crime                       1
+Action, Fantasy, Romance                            1
+Adventure, Music, Romance                           1
+Horror, Romance                                     1
+Romance, Musical                                    1
+Action, History                                     1
+Documentary, Family, Romance                        1
+History, Horror                                     1
+Biography, Documentary                              1
+Biography, Fantasy, Musical                         1
+Documentary, Adventure, Western                     1
+Documentary, History, Sci-Fi                        1
+Musical, Mystery                                    1
+Comedy, Crime, Music                                1
+Action, Crime, War                                  1
+Horror, Western                                     1
+Drama, Family, Romance, Western                     1
+Action, Crime, Sci-Fi                               1
+Documentary, History, Western                       1
+Documentary, Mystery, Sci-Fi                        1
+Comedy, Family, Sport                               1
+Action, Mystery                                     1
+Action, Fantasy, Mystery                            1
+Action, Sport                                       1
+Documentary, Mystery, Thriller                      1
+Documentary, Biography, Fantasy                     1
+Action, Comedy, Horror, Sci-Fi, Thriller            1
+Animation, Comedy, Crime                            1
+Animation, Biography, Crime                         1
+Crime, Musical, Thriller                            1
+Drama, Thriller, Mystery                            1
+Documentary, Action, Family                         1
+Crime, Romance                                      1
+Comedy, Musical, Western                            1
+Crime, Drama, Musical                               1
+Documentary, Animation, Musical                     1
+Action, Drama, Romance, Thriller                    1
+Action, Musical, Thriller                           1
+Documentary, Biography, History, Music              1
+Mystery, Sci-Fi, Thriller                           1
+Adventure, Biography, History                       1
+Thriller, Horror                                    1
+Documentary, Animation, Action                      1
+Animation, Drama, Thriller                          1
+Biography, Comedy, History                          1
+Biography, Comedy, War                              1
+Documentary, Family, Western                        1
+Biography, War                                      1
+Action, Comedy, Musical                             1
+Action, Thriller, War                               1
+History, Mystery                                    1
+Animation, Biography, Family                        1
+Animation, Family, Music                            1
+Crime,Drama,Mystery                                 1
+Drama, Family, Musical, Romance                     1
+Horror, Music                                       1
+Drama, Documentary, Mystery                         1
+Action, Comedy, Sport                               1
+Crime, Mystery, Romance                             1
+Fantasy, Musical                                    1
+Horror, Mystery, Romance                            1
+Action, Biography, Thriller                         1
+Comedy,Drama,Mystery                                1
+Fantasy, Sci-Fi, Thriller                           1
+Drama, Music, Thriller                              1
+Fantasy, Western                                    1
+Action, Adventure, Mystery                          1
+Mystery, Romance, Sci-Fi                            1
+Adventure, Fantasy, History                         1
+Crime, Comedy, Drama                                1
+Comedy, Family, Sci-Fi                              1
+Action, Adventure, Drama, Thriller                  1
+Action, Horror, Western                             1
+Musical, Sci-Fi                                     1
+Fantasy,Horror                                      1
+Fantasy, Musical, Romance                           1
+Musical, Romance, Thriller                          1
+Music, Mystery, Thriller                            1
+Action, Crime, Western                              1
+Drama, Horror, Romance                              1
+History, Romance                                    1
+Drama, Mystery, War                                 1
+Comedy, History, Musical                            1
+Documentary, Animation, Mystery                     1
+Animation, Drama, War                               1
+Documentary, Drama, Musical                         1
+Family, Musical, Romance                            1
+Animation, Action, Drama, Fantasy                   1
+Music, Musical, Romance                             1
+Family, Musical, Sci-Fi                             1
+Adventure, Drama, Musical                           1
+Action, Family                                      1
+Documentary, Biography, Drama, History, Sport       1
+Documentary, Adventure, War                         1
+Action, Comedy, Fantasy, Horror, Thriller           1
+Action, Drama, Music                                1
+Documentary, Comedy, Sci-Fi                         1
+Documentary, Music, Sci-Fi                          1
+Documentary, Biography, History, Sport              1
+Action, Music                                       1
+Documentary, Biography, Drama, News                 1
+Comedy, Family, Musical                             1
+Documentary, News, Sport                            1
+Documentary, News, War                              1
+Adventure, Mystery, Sci-Fi                          1
+Animation, Thriller                                 1
+Comedy, Crime, Family                               1
+Horror, Romance, Sci-Fi                             1
+Action, Musical, Romance                            1
+Family, Thriller                                    1
+Comedy, Family, Mystery                             1
+Comedy, Fantasy, Musical                            1
+Documentary, Comedy, Mystery                        1
+Romance, Drama                                      1
+Action, Adventure, Western                          1
+Biography, Family                                   1
+Biography, Crime                                    1
+Adventure, Musical, Sci-Fi                          1
+Documentary, News, Thriller                         1
+Drama, Mystery, Romance, Thriller                   1
+Documentary, Fantasy, History                       1
+Biography, Family, Sport                            1
+Action, History, Thriller                           1
+Action, Crime, Drama, Thriller                      1
+Animation, Comedy, Drama, Fantasy                   1
+Comedy, Family, Thriller                            1
+News                                                1
+Documentary, Action, Mystery                        1
+Adventure, Crime, Thriller                          1
+Drama, Sport, Thriller                              1
